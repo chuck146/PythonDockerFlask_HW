@@ -19,3 +19,5 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 * [W3 Schools SQL Tutorial and Reference](https://www.w3schools.com/sql/)
 # SQL Data Screenshot
 ![pycharm_data_query](screenshots/Query.png)
+# postman request output
+![postman_request_output](screenshots/postman.png)
