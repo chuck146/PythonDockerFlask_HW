@@ -21,3 +21,5 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![pycharm_data_query](screenshots/Query.png)
 # postman request output
 ![postman_request_output](screenshots/postman.png)
+# part 2 of hw
+![second_section_of_hw](screenshots/part2.png)
